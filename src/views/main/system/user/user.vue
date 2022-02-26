@@ -26,7 +26,7 @@
 
 <script lang="ts">
 import { formConfig } from './config/search.config'
-import { defineComponent, ref, computed } from 'vue'
+import { defineComponent, computed } from 'vue'
 import { useStore } from '@/store'
 import PageSearch from '@/components/page-search'
 import { contentTableConfig } from './config/content.config'

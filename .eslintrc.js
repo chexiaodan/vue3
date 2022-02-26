@@ -1,7 +1,3 @@
-const {
-  off
-} = require("process");
-
 module.exports = {
   root: true,
   env: {

@@ -55,7 +55,7 @@
 </template>
 
 <script lang="ts" setup>
-import { defineProps, defineEmits, ref } from 'vue'
+import { defineProps, defineEmits } from 'vue'
 
 const props: any = defineProps({
   listData: {

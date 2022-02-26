@@ -16,7 +16,7 @@ import { defineProps } from 'vue'
 import type { PropType } from 'vue'
 import type { IBreadcrumb } from './types'
 
-const props = defineProps({
+defineProps({
   breadcrumb: {
     type: Array as PropType<IBreadcrumb[]>,
     default: () => []

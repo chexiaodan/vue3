@@ -1,5 +1,3 @@
-import { IForm } from '@/base-ui/form'
-
 export const modalConfig: any = {
   title: '新建部门',
   formItems: [

@@ -30,7 +30,7 @@
 </template>
 
 <script lang="ts" setup>
-import { computed, defineProps, ref } from 'vue'
+import { computed, defineProps } from 'vue'
 import { Setting } from '@element-plus/icons-vue'
 import { useStore } from 'vuex'
 import { useRouter, useRoute } from 'vue-router'

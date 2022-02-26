@@ -1,5 +1,3 @@
-import { IForm } from '@/base-ui/form'
-
 export const searchFormConfig: any = {
   formItems: [
     {

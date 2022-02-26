@@ -5,7 +5,7 @@
 </template>
 
 <script lang="ts">
-import { ref, defineComponent } from 'vue'
+import { defineComponent } from 'vue'
 import * as Icons from '@element-plus/icons-vue'
 
 export default defineComponent({
